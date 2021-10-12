@@ -1,0 +1,15 @@
+{
+  "name": "testing-serverless",
+  "version": "1.0.0",
+  "description": "Websocket in AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1004.0",
+    "serverless": "^2.62.0"
+  }
+}
